@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-        escreva("Olá mundo")
+        escreva("Olá mundo, eu sou o jhony")
     
 
 		
