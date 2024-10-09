@@ -3,7 +3,9 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Olá meu nome é jhony e tenho 18 anos")
+		inteiro idade = 0
+                escreva("Digite a idade")
+                leia(idade)
 	}
 }
 /* $$$ Portugol Studio $$$ 
