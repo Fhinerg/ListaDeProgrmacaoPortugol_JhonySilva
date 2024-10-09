@@ -3,18 +3,8 @@ programa
 	
 	funcao inicio()
 	{
-	
-		
-		inteiro a = 4
-		inteiro b =2
-		
-		
-		 
-		escreva("Digite o primeiro valor")
-		leia(a)
-		
-		escreva("Digite o segundoo valor")
-		leia(a)
+        escreva("Olá mundo")
+    
 
 		
 
