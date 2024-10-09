@@ -6,6 +6,7 @@ programa
 		inteiro idade = 0
                 escreva("Digite a idade")
                 leia(idade)
+                escreva("A idade digitada é:" + idade)
 	}
 }
 /* $$$ Portugol Studio $$$ 
